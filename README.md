@@ -5,6 +5,7 @@ Simple yet powerful java/android logger with following features:
  - Logging to file(s) and logcat
  - Static log methods with automatic tags
  - TBD
+ - Special pluggable loggers for Roboelectric etc
 
 TODO
 =======
