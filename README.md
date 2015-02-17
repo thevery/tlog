@@ -1,3 +1,10 @@
+Quickstart (not yet implemented)
+======
+ - Add dependency and plugin (more details about intergration)
+ - Annotate with `@XXX` or invoke static `TLog.d(...)` (more about annotations and calls)
+ - Enable with gradle, resources or static (`TLog.enableFile(true/false)`) (more about configuration here)
+ - Check logcat or file (`/data/Android/com.packagename/file.log`)
+
 tlog
 ======
 Simple yet powerful java/android logger with following features:
